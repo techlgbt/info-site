@@ -2,11 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 # Tech.LGBT General Information
 
-**Due to increased bot signup, manual approval is required. Please write some applicable request text on signup with why you want to join. Submissions that fail to do so will be denied.**
 
 This Mastodon instance is for tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.
 
