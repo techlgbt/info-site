@@ -20,6 +20,7 @@
 
 locale: "en-US"
 title: Tech.LGBT Info Site
+logo: /logo.png
 email: mods@tech.lgbt
 description: >- # this means to ignore newlines until "baseurl:"
   Information Site for the tech.lgbt Fediverse Instance
