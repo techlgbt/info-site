@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 # Tech.LGBT General Information
 
 **Due to increased bot signup, manual approval is required. Please write some applicable request text on signup with why you want to join. Submissions that fail to do so will be denied.**
@@ -36,7 +42,7 @@ The following guidelines are not a legal document, and final interpretation is u
 2. The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
     1. Racism or advocation of racism
     2. Sexism or advocation of sexism
-    3. Discrimination against gender and sexual minorities, or advocation thereof
+    3. Discrimination against gender and sexual minorities, or ajekyll new --skip-bundle .dvocation thereof
     4. Xenophobic and/or violent nationalism
 3. The following types of content are explicitly disallowed and will result in revocation of access to the service:
     1. Sexual depictions of minors (real or artistic depictions; human or non-human)
