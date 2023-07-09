@@ -41,7 +41,7 @@ The following guidelines are not a legal document, and final interpretation is u
 2. The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:
     1. Racism or advocation of racism
     2. Sexism or advocation of sexism
-    3. Discrimination against gender and sexual minorities, or ajekyll new --skip-bundle .dvocation thereof
+    3. Discrimination against gender and sexual minorities, or advocation thereof
     4. Xenophobic and/or violent nationalism
 3. The following types of content are explicitly disallowed and will result in revocation of access to the service:
     1. Sexual depictions of minors (real or artistic depictions; human or non-human)
@@ -130,6 +130,6 @@ We maintain a blocklist of instances that we do not federate with. If you believ
 
 **For privacy and safety of our community, we do not comment on most instance blocks that we have in place. We have recently begun sharing details on major/oft commented moderation decisions via [@mods@tech.lgbt](https://tech.lgbt/@mods)**
 
-The list is visible for logged-in members under the section **Moderated servers** below. While we understand that not publishing this list for non-members is not fully transparent, we are not trying to scare of potential new members who want to ensure that their friends are not blocked. The only nefarious intent here are those who have used this information when public to harass individuals and the instance as a whole. Bluntly, if those are the people that you want to interact with, you should probably join their instance instead.
+The list is visible for logged-in members under the section **Moderated servers** on [https://tech.lgbt/about](https://tech.lgbt/about). While we understand that not publishing this list for non-members is not fully transparent, we are not trying to scare of potential new members who want to ensure that their friends are not blocked. The only nefarious intent here are those who have used this information when public to harass individuals and the instance as a whole. Bluntly, if those are the people that you want to interact with, you should probably join their instance instead.
 
 **This page most recently updated on 6 July 2023**
