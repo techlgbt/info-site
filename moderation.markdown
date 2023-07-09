@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Moderation Guidelines
+permalink: /moderation/
 ---
 # Tech.LGBT Moderation Guidelines
 
