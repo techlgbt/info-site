@@ -13,7 +13,6 @@ With that trust we have responsibility, and this document is an attempt to outli
 - Moderation will be as transparent as reasonable.
     - Preserving the privacy of members
     - Avoiding pile-ons
-    -
 
 ## Moderator Conduct
 
