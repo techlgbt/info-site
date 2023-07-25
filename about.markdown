@@ -6,7 +6,6 @@ permalink: /about/
 
 # Tech.LGBT General Information
 
-
 This Mastodon instance is for tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.
 
 ## Attributions
@@ -54,9 +53,7 @@ The following guidelines are not a legal document, and final interpretation is u
     2. Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.
     3. Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.
 
-These provisions notwithstanding, the administration of the service reserves
-    the right to revoke any user's access permissions, at any time, for any
-    reason, except as limited by law.
+These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.
 
 ### Content Warnings and Sensitive Media
 
@@ -104,11 +101,11 @@ This instance is administered by the site owner, [@david](https://tech.lgbt/@dav
 - [@murderofescrows](https://tech.lgbt/@murderofescrows)
 - [@niraeth](https://tech.lgbt/@niraeth)
 - [@raeaw](https://tech.lgbt/@raeaw)
-- [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan)
+- [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan) (Server technician)
 - [@sudaksis](https://tech.lgbt/@sudaksis)
 - [@tarajdactyl](https://tech.lgbt/@tarajdactyl)
 
-If you would like to directly contact our moderation team, we have an account at [@mods](https://tech.lgbt/@mods), and can be reached via email at mods@tech.lgbt
+If you would like to directly contact our moderation team, we have an account at [@mods](https://tech.lgbt/@mods), and can be reached via email at `mods@tech.lgbt`
 
 ## Legal
 
@@ -132,4 +129,4 @@ We maintain a blocklist of instances that we do not federate with. If you believ
 
 The list is visible for logged-in members under the section **Moderated servers** on [https://tech.lgbt/about](https://tech.lgbt/about). While we understand that not publishing this list for non-members is not fully transparent, we are not trying to scare of potential new members who want to ensure that their friends are not blocked. The only nefarious intent here are those who have used this information when public to harass individuals and the instance as a whole. Bluntly, if those are the people that you want to interact with, you should probably join their instance instead.
 
-**This page most recently updated on 6 July 2023**
+**This page most recently updated on 25 July 2023**
