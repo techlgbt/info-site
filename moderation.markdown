@@ -11,48 +11,68 @@ Our guiding value for moderation, above all else, is the protection of our membe
 
 With that trust we have responsibility, and this document is an attempt to outline this responsibility. No document can cover all moderation events that may come up, but the general rules that guide our moderation team are:
 
-- Moderation will be proactive where possible. If we can take the onus off of our members in blocking harmful servers (instances), we will do so.
-- Moderation will be as transparent as reasonable.
-    - Preserving the privacy of members
+- Moderation will be proactive where possible. If we can take the onus off of our members in blocking harmful servers/instances, we will do so.
+- Moderation will be as transparent as possible where reasonable.
+    - Preserving the privacy of members (i.e. when talking about reports originating from our instance)
     - Avoiding pile-ons
 
 ## Moderator Conduct
 
-Moderators are here to protect our community and make this a welcoming space to our users.
+Our moderators are here to protect our community and make this a welcoming space for our users. We do this by keeping a watch of the local and federated feeds, responding to user reports, managing user accounts on our server, and curating federation.
 
-We do this by keeping a watch of the local and federated feeds, responding to user reports, and managing users accounts on our server (most commonly reviewing account applications).
+Our staff of administrators and moderators are held to the same rules as all other users on our server.
 
-Moderators should refrain from discussing details about ongoing issues/reports except in the case of serious large scale problems that justify public attention (usually via #Fediblock / #InstanceBlock). Additionally, specific details that can be used to identify parties involve should also be kept private only to the moderation team and affected users on a need-to-know basis. (We highly value our users’ personal data and uphold privacy as a core tenant of administration.) Breaking this rule on privacy can result in revocation of moderator/administrator status and/or suspension of their account.
+Moderators with personal involvement or history in a conflict are not to engage in any actions beyond providing information. We also aim to keep our personal biases, knowledge, and experiences in check when making decisions as much as possible; if this cannot be done feasibly, the moderator is to disengage from the decision.
+
+Moderators are prohibited from discussing private information about users publicly. We highly value our users’ personal data and only provide relevant information in the case of reports on a need-to-know basis only to affected parties.
+
 
 ## Moderator Communication
 
 Clear communication between our staff and others is vital to making appropriate decisions and maintaining healthy relationships with the wider Fediverse.
 
-Our moderation team will issue statements via our moderator account, @mods@tech.lgbt. Our moderators are allowed to express their own opinions via their own profiles, but personal account posts do not represent the moderation team or server as a whole.
+We issue statements via our server account, `@mods@tech.lgbt`. Our staff are allowed to express their own opinions on their own accounts, but personal account posts do not represent the moderation team or server as a whole.
 
-Communication between another server’s moderation staff and ours should be done through the email, mods@tech.lgbt, or through direct messaging on the mods@tech.lgbt account. For these communications, this should be done as the collective voice of the moderation staff and thus should be discussed as a group before communicating with other teams.
+Communication between another server’s moderation staff and ours should be done through our email, mods@tech.lgbt, or through direct messaging to the @mods@tech.lgbt account. For these official communications, it is done as the collective voice of our moderation team.
 
-## Account Approvals
+## Sign-Up Reviews
 
-Our primary goal in account reviews before accessing the server/instance is to keep out bots and corporate accounts.  Accounts with minimal or no reasoning in their submissions will be denied with prejudice. Accounts that aim to make their presence in the Fediverse by using our service solely for hosting a business will also be denied approval.
+Our primary goal in sign-up reviews before accessing our server is to keep out bots and corporate accounts. Submissions with minimal or no reasoning will be denied with prejudice. Accounts that aim to use our service solely for hosting a business will also be denied approval.
 
-- We accept people, not proxies of people.
+We accept people, not proxies of people.
 
-We also will not approve accounts that state in their submissions that they support ideals that directly or indirectly oppose our core tenants (i.e. to promote religious rhetoric; to debate against LGBTQIA+ communities).
+We also will not approve accounts for known bad actors, or those who directly or indirectly oppose our core tenants in their submission (i.e. to promote religious rhetoric; to debate against the legitimacy of LGBTQIA+ communities).
 
 ## Reports and Appeals
 
-All user reports should be actioned with confidence.
+All user reports are taken seriously and any actions must be taken with confidence.
 
-If a report is easily determined to have broken our rules, the moderator should action it accordingly.
+Reports about our individual staff members will not be handled by the individuals in question but rather by the rest of the staff.
 
-If a report appears to be more nuanced, then the moderator should investigate deeper to determine the context of the post and of the report itself to determine if any violation has occurred. Simple debates in which one party just disagrees with the other and felt the need to report is not actionable unless it meets the criteria for violation of our rules.
+If a report appears to be more nuanced, then the moderator should investigate deeper to determine the context of the post and of the report itself to determine if any violation has occurred. Debates in which one party disagrees with the other but creates a retaliatory report are generally not actionable unless it meets the criteria for violation of our rules. The report button is not a “super downvote” button.
 
-Reports that involve other languages should be run through translators or brought up to staff that are fluent in the language so proper understanding of the report can be attained.
+We may request additional information from reporters to get a better picture of the situation at hand, we want to be assured we have an as complete picture as possible when making decisions.
 
-In the case that the action taken is appealed, the rest of the moderation team should be informed of the case in question and collectively decide if the action taken was justified (denying the appeal), or if the user receiving the action taken on them has corrected their conduct to justify reversal of the decision or if the decision was made unjustly (approving the appeal).
+In the case that an action is appealed, the rest of the moderation team will be informed of the appeal and collectively decide if the action taken was justified (denying the appeal), or if the user receiving the action has corrected their conduct to justify a reversal of the decision or if the decision was made unjustly (approving the appeal).
 
-Similarly, if there is a request to unlimit/revoke suspension of a server, the moderation team should collectively decide if the reason for taking action against a server was justified or is still justified. If the server in question is deemed to still be a threat, we should also be conscientious in replying to the request.
+## Federation
+
+We only federate with servers that align with our principles and defederate servers that oppose our ideals. Actions with other servers have the biggest impact on our community, so we implement a higher threshold of tolerance as necessary.
+
+Some servers may only be limited if they do not pose a serious risk to our users.
+
+Rules for defederation must meet at least one of the listed criteria below:
+
+- Their policies/rules directly violate ours
+- Multiple reports about users on their server, relative to server size
+    - Reports about server staff themselves may alone qualify for the entire server
+    - Severity of reports as they correlate to our rules
+    - Inaction from remote server staff to enact their own rules
+- Remote server staff responses that permit or endorse severe violations of our policies
+
+Defederation with servers with which we more heavily federate will be given advanced notice via the `@mods@tech.lgbt` account with our justification and will be limited immediately. A window of 14 to 30 days will be made before suspension to allow for users to migrate if they feel directly impacted by the action.
+
+If there is a request to revoke the limit/suspension of a server, our moderation team will decide if the reason for taking action against a server was justified or is still justified. If the server in question is deemed to still be in violation, we will inform the requestor about the outcome as reasonable to do so.
 
 ## Moderation Team
 
@@ -65,6 +85,6 @@ Staff:
 - [@murderofescrows](https://tech.lgbt/@murderofescrows)
 - [@niraeth](https://tech.lgbt/@niraeth)
 - [@raeaw](https://tech.lgbt/@raeaw)
-- [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan)
+- [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan) (Server technician)
 - [@sudaksis](https://tech.lgbt/@sudaksis)
 - [@tarajdactyl](https://tech.lgbt/@tarajdactyl)
