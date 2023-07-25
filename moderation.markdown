@@ -88,3 +88,5 @@ Staff:
 - [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan) (Server technician)
 - [@sudaksis](https://tech.lgbt/@sudaksis)
 - [@tarajdactyl](https://tech.lgbt/@tarajdactyl)
+
+**This page was most recently updated on 25 July 2023**

@@ -129,4 +129,4 @@ We maintain a blocklist of instances that we do not federate with. If you believ
 
 The list is visible for logged-in members under the section **Moderated servers** on [https://tech.lgbt/about](https://tech.lgbt/about). While we understand that not publishing this list for non-members is not fully transparent, we are not trying to scare of potential new members who want to ensure that their friends are not blocked. The only nefarious intent here are those who have used this information when public to harass individuals and the instance as a whole. Bluntly, if those are the people that you want to interact with, you should probably join their instance instead.
 
-**This page most recently updated on 25 July 2023**
+**This page was most recently updated on 25 July 2023**
