@@ -204,34 +204,6 @@ footer {
 }
 
 @media print,
-screen and (max-width: 960px) {
-    div.wrapper {
-        width: auto;
-        margin: 0
-    }
-
-    header,
-    section,
-    footer {
-    }
-
-    header {
-    }
-
-    section {
-        border: 1px solid #e5e5e5;
-        border-width: 1px 0;
-        padding: 20px 0;
-        margin: 0 0 20px
-    }
-
-    header a small {
-        display: inline
-    }
-
-}
-
-@media print,
 screen and (max-width: 720px) {
     body {
         word-wrap: break-word
