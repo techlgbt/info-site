@@ -25,6 +25,11 @@ If you’re accused of causing harm, either take some responsibility or ask mode
 ### No Pedophilia or Zoophilia.
 This includes "loli" or "feral", including artistic depictions.
 
+### Members under the age of 18 are not permitted to post lewd, explicit, nsfw, or otherwise sexual content.
+This includes as original posts or in reply to other members, as well as boosting content of this type from their accounts.
+
+Members found in violation of this rule will receive one warning from the moderation team, and be asked to remove the offending content. A second offense can result in further moderation, including the suspension of the offending account.
+
 ### Use the Report Feature.
 Our moderators are here to listen and respond to reports.
 
