@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 
 body {
@@ -18,12 +15,22 @@ a:focus {
     font-weight: inherit;
 }
 
+.wrapper {
+    display: grid;
+    grid-template-columns: 200px auto;
+    justify-content: space-between;
+    grid-column-gap: 40px;
+}
 
 header,
 footer {
-    width: 200px;
+    float: none;
+    width: auto;
+    position: relative;
 }
 
 section {
-    width: 560px;
+    float: none;
+    max-width: 560px;
+    width: auto;
 }
