@@ -3,7 +3,27 @@
 
 @import "{{ site.theme }}";
 
+body {
+    color: #0f0202;
+}
+
+a {
+    color: #1cbaba;
+    text-decoration: underline;
+}
+
 a:hover,
 a:focus {
+    color: #861d9b;
     font-weight: initial;
+}
+
+
+header,
+footer {
+    width: 200px;
+}
+
+section {
+    width: 560px;
 }
