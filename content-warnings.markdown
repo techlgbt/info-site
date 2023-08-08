@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Content Warnings (CWs) Reference
+title: Content Warnings (CWs) Acronym Reference
 permalink: /content-warnings/
 ---
 
-# Content Warnings (CWs) Reference
+# Content Warnings (CWs) Acronym Reference
 
 Fediverse servers all have their own rules, guidelines, and community standards for how content warnings are used. The tech.lgbt Content Warning Policies can be found at [https://info.tech.lgbt/about/#content-warnings-and-sensitive-media](https://info.tech.lgbt/about/#content-warnings-and-sensitive-media)
 
@@ -17,6 +17,7 @@ Please note that the below list is not exhaustive, and is updated based on real-
 - mh – mental health
 - nsfw – not safe for work
 - oh – overheard
+  - often used tongue-in-cheek, literally meaning "I overheard this", but often used as "I saw this said in a conversation, and now im posting it out-of-context, as it is funny/interesting/bemusing"
 - ph – physical healh
 - pol – politics
   - uspol/ilpol/ukpos/eupol etcetera – politics, but region specific, the first two letters are an indicator (uspol – united states politics, eupol – european politics, and so forth)
@@ -33,6 +34,7 @@ Please note that the below list is not exhaustive, and is updated based on real-
 - sui – suicide
 
 ## Social Media Sharing
+- lb - last boost
 - qt – quote toot/tweet
 - rt – re(toot/tweet)
 - qn – quote note
@@ -48,12 +50,19 @@ Please note that the below list is not exhaustive, and is updated based on real-
 - neg (or -) – negative
 - ~ (sometimes ?) – unsure if it’s positive or negative, or somewhere in-between
 
-## tone indicators
+## Tone Indicators
+
+Tone indicators are meant to convey how the author wants their emotion or feeling of their statement to be read.
+
 - /j (or just j) – joking
 - /lh (or just lh) – lighthearted
 - /ly (or just ly) – lyrics
 - /s (or just s) – sarcasm
 - /srs (or just srs) – serious
 - /sx, /x (or just sx or x) – sexual
+
+For more information on tone indicators, here are further and more detailed references:
+- [https://tonetags.carrd.co/](https://tonetags.carrd.co/)
+- [https://toneindicators.carrd.co/](https://toneindicators.carrd.co/)
 
 **This page was most recently updated on 8 August 2023**
