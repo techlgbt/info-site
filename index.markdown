@@ -9,3 +9,4 @@ This informational site provides the following resources:
 - [General Instance Information](/about.markdown)
 - [Moderation Guidelines](/moderation.markdown)
 - [Instance Rules](/rules.markdown)
+- [Content Warnings (CWs) Acronym Reference](/content-warnings.markdown)
