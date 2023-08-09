@@ -16,6 +16,8 @@ With that trust we have responsibility, and this document is an attempt to outli
     - Preserving the privacy of members (i.e. when talking about reports originating from our instance)
     - Avoiding pile-ons
 
+We do not perform "guilt-by-association" moderation. While that may contribute to moderation decision making, it is not the sole or majority basis for moderation action on our server. We follow reports and public discourse around moderation, but do not perform moderation via pressure from other servers.
+
 ## Moderator Conduct
 
 Our moderators are here to protect our community and make this a welcoming space for our users. We do this by keeping a watch of the local and federated feeds, responding to user reports, managing user accounts on our server, and curating federation.
@@ -73,6 +75,13 @@ Rules for defederation must meet at least one of the listed criteria below:
 Defederation with servers with which we more heavily federate will be given advanced notice via the `@mods@tech.lgbt` account with our justification and will be limited immediately. A window of 14 to 30 days will be made before suspension to allow for users to migrate if they feel directly impacted by the action.
 
 If there is a request to revoke the limit/suspension of a server, our moderation team will decide if the reason for taking action against a server was justified or is still justified. If the server in question is deemed to still be in violation, we will inform the requestor about the outcome as reasonable to do so.
+
+## Covenants and Pacts
+
+Our server is hesitant to be included in pacts and covenants among other servers, as we prefer to maintain our own moderation discretion. The pressure to be included in pacts will not be seen as an adequate reason to sign them. The hesitancy to sign pacts does not indicate a moderator position on the content of the pact or covenant.
+
+We are currently signees of the following pacts:
+- [Anti-Meta Fedi Pact](https://fedipact.online/)
 
 ## Moderation Team
 
