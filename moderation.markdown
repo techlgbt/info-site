@@ -98,4 +98,4 @@ Staff:
 - [@sudaksis](https://tech.lgbt/@sudaksis)
 - [@tarajdactyl](https://tech.lgbt/@tarajdactyl)
 
-**This page was most recently updated on 25 July 2023**
+**This page was most recently updated on 8 August 2023**

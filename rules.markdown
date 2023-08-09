@@ -30,7 +30,10 @@ This includes as original posts or in reply to other members, as well as boostin
 
 Members found in violation of this rule will receive one warning from the moderation team, and be asked to remove the offending content. A second offense can result in further moderation, including the suspension of the offending account.
 
+### No direct threats and incitement to violence.
+Expressing dissatisfaction is fine, but directly stating interest or intent to commit violent harm are not welcome on this server.
+
 ### Use the Report Feature.
 Our moderators are here to listen and respond to reports.
 
-**This page was most recently updated on 25 July 2023**
+**This page was most recently updated on 9 August 2023**
