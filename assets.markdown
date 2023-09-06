@@ -27,7 +27,6 @@ Props to [@malle_yeno@tech.lgbt](https://tech.lgbt/@malle_yeno/) for the instanc
 ## Images
 
 ### PNG
-|---|---|
 
 | tech.lgbt logo in color with a thick black outline - PNG                          | ![tech.lgbt logo in color with a thick black outline - PNG](assets/images/techlgbt_color_black_outline.png)                            |
 | tech.lgbt logo in color with a thick black outline and a thin white outline - PNG | ![tech.lgbt logo in color with a thick black outline and a thin white outline - PNG](assets/images/techlgbt_logo_bw_white_outline.png) |
@@ -35,7 +34,6 @@ Props to [@malle_yeno@tech.lgbt](https://tech.lgbt/@malle_yeno/) for the instanc
 | tech.lgbt logo in color with a thin white outline - PNG                           | ![tech.lgbt logo in color with a thin white outline - PNG](assets/images/techlgbt_logo_white_outline.png)                              |
 
 ### SVG
-|---|---|
 
 | tech.lgbt logo in color with a thick black outline - SVG | ![tech.lgbt logo in color with a thick black outline - SVG](assets/images/techlgbtlogo_bw.svg) |
 | tech.lgbt logo in black and white - SVG                  | ![tech.lgbt logo in black and white - SVG](assets/images/techlgbtlogo_color.svg)               |
