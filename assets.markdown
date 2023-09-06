@@ -28,6 +28,7 @@ Props to [@malle_yeno@tech.lgbt](https://tech.lgbt/@malle_yeno/) for the instanc
 
 ### PNG
 | description | image |
+
 | ----------- | ----- |
 
 | tech.lgbt logo in color with a thick black outline - PNG                          | ![tech.lgbt logo in color with a thick black outline - PNG](assets/images/techlgbt_color_black_outline.png)                            |
