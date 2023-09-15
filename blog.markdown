@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Moderation Blog
+author: tech.lgbt Moderation Team
 permalink: /blog/
 ---
 

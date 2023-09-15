@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Addressing Moderation Concerns Raised by rage.love and simcha.lgbt"
+author: tech.lgbt Moderation Team
 ---
 
 # Addressing Moderation Concerns Raised by rage.love and simcha.lgbt
