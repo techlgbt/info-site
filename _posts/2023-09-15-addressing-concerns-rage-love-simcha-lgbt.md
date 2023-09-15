@@ -6,7 +6,7 @@ author: tech.lgbt Moderation Team
 
 We will be addressing the points raised here:
 
-https://simcha.lgbt/@admin/111054336232329797 (if this post doesn’t resolve, put it in your fediverse instance search bar), as we believe this summarizes the current discourse around us into a single accessible post.
+[https://simcha.lgbt/@admin/111054336232329797](https://simcha.lgbt/@admin/111054336232329797) (if this post doesn’t resolve, put it in your fediverse instance search bar), as we believe this summarizes the current discourse around us into a single accessible post.
 
 Regarding the first point, that of the weirder.earth fediblock post in February, we’d like to elaborate on the changes to our moderation process as a result. Since that event, we have been quiet about these improvements, as we hoped they could speak for themselves instead of verbal announcements with no follow-up, and we hope that the past seven months have been evidence that we’ve tightened up this ship.
 
@@ -26,7 +26,7 @@ We’re still underway with this process, but we hope that a glimpse of our inte
 
 We still have internal problems, notably an automated handling of emails and DMs (to @mods) having to be relayed by few moderators with access to inboxes, which is then copy-pasted into our Discord server and, after consensus, a response copy-pasted back (from @mods). We still need to find an automated solution for this, but for now, this is how we approach collective responses.
 
-More recently we also launched our official info site (https://info.tech.lgbt/) where we have documentation of our general instance information, moderation guidelines, instance rules, instance assets, and a reference for content warning acronyms. This site is incomplete but should serve as a solid basis as a public resource.
+More recently we also launched our official info site ([https://info.tech.lgbt/](https://info.tech.lgbt/)) where we have documentation of our general instance information, moderation guidelines, instance rules, instance assets, and a reference for content warning acronyms. This site is incomplete but should serve as a solid basis as a public resource.
 
 Internally, we use Notion as a knowledge base and document collaboration resource, where we can note down and share information between us on larger events on the Fediverse, helping each other keep track and stay up-to-date.
 
@@ -38,7 +38,7 @@ We now have a wide range of perspectives active in our moderation team, but this
 
 The second point raised comes with a criticism from our side. We took the points of rage.love as candid as we did, but in the process hostility was introduced at our reluctance to punish or expose the user in question.
 
-For the purposes of openness, we have copied and formatted the entire email correspondence over this issue for everyone to read: https://pastebin.com/GDryZH0T
+For the purposes of openness, we have copied and formatted the entire email correspondence over this issue for everyone to read: [https://pastebin.com/GDryZH0T](https://pastebin.com/GDryZH0T)
 
 Our internal assessment was that this user was overzealous to the point of harassing in their reporting and we believed that, rather than punishing, we could educate them to get them to change their stance, and/or, at the very least, understand that the use of language in this way causes direct harm to people. We have taken this approach with our juvenile users before to help them understand their own actions.
 
