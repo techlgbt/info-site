@@ -4,8 +4,6 @@ title:  "Addressing Moderation Concerns Raised by rage.love and simcha.lgbt"
 author: tech.lgbt Moderation Team
 ---
 
-# Addressing Moderation Concerns Raised by rage.love and simcha.lgbt
-
 We will be addressing the points raised here:
 
 https://simcha.lgbt/@admin/111054336232329797 (if this post doesn’t resolve, put it in your fediverse instance search bar), as we believe this summarizes the current discourse around us into a single accessible post.
