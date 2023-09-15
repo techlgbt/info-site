@@ -11,3 +11,4 @@ This informational site provides the following resources:
 - [Instance Rules](/rules.markdown)
 - [Instance Assets](/assets.markdown)
 - [Content Warnings (CWs) Acronym Reference](/content-warnings.markdown)
+- [Moderation Blog](/blog.markdown)
