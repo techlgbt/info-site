@@ -36,6 +36,23 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+# Handling Drafts
+# https://www.aravindiyer.com/posts/jekyll-drafts
+collections:
+  drafts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: drafts
+    values:
+      comments: false
+      share: false
+      related: false
+      sitemap: false  #To hide from sitemap.xml
+      noindex: true   #To hide from robots and crawlers
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
