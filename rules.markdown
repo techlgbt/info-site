@@ -23,7 +23,7 @@ Marking an image as “sensitive media” can be done separately, but should alw
 If you’re accused of causing harm, either take some responsibility or ask moderators for help.
 
 ### No Pedophilia or Zoophilia.
-This includes "loli" and "feral", including artistic depictions.
+This includes artistic depictions of characters that cannot give consent.
 
 ### Members under the age of 18 are not permitted to post lewd, explicit, nsfw, or otherwise sexual content.
 This includes as original posts or in reply to other members, as well as boosting content of this type from their accounts.
