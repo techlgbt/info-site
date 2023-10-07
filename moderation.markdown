@@ -96,6 +96,5 @@ Staff:
 - [@raeaw](https://tech.lgbt/@raeaw)
 - [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan) (Server technician)
 - [@sudaksis](https://tech.lgbt/@sudaksis)
-- [@tarajdactyl](https://tech.lgbt/@tarajdactyl)
 
-**This page was most recently updated on 8 August 2023**
+**This page was most recently updated on 7 October 2023**
