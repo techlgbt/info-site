@@ -6,7 +6,7 @@ author: tech.lgbt Moderation Team
 
 While [our latest post](https://info.tech.lgbt/2023/09/15/addressing-concerns-rage-love-simcha-lgbt.html) has responded to [the fediblock post from simcha.lgbt](https://simcha.lgbt/@admin/111054336232329797) (to load, put the link in the search bar of your instance), more recently, [mastodon.art has announced to fediblock tech.lgbt](https://mastodon.art/@Curator/111085105426134507) on the same grounds, including additional reasons.
 
-In our post, we have talked more broadly about the issues that were brought up in rage.love’s statement, in this post we’ll be responding to the events that led up to weirder.earth’s fediblock post, our response and reassessment, and we’ll respond and do the same with the point noted by [mastodon.art](http://mastodon.art) about the events surrounding thebad.space, now that we have reached consensus.
+In our post, we have talked more broadly about the issues that were brought up in rage.love’s statement, in this post we’ll be responding to the events that led up to weirder.earth’s fediblock post, our response and reassessment, and we’ll respond and do the same with the point noted by mastodon.art about the events surrounding thebad.space, now that we have reached consensus.
 
 The latter, including fatigue and smidges of burnout over this situation, contributed to the delay of this post. We apologize for that.
 
@@ -40,11 +40,11 @@ In response to this issue, we have since created official instance communication
 
 The context of this issue was the appearance of an Ukrainian Mastodon instance being actively hijacked during an absence of admins. There, apparent, fake Nazi accounts were created and began mass following users outside of the instance while pretending to be Ukrainian citizens.
 
-A [tech.lgbt](http://tech.lgbt) user noted and warned about this, and later edited their message to include “#fediblock”.
+A tech.lgbt user noted and warned about this, and later edited their message to include “#fediblock”.
 
 This post then received a report saying “Piggybacking on a good fediblock rec with a bunch of unhinged Russiagate bullshit”.
 
-At the same time, a then-mod from [eldritch.cafe](http://eldritch.cafe) posted about the fact that this Ukrainian mastodon instance was, in reality, a fascist instance.
+At the same time, a then-mod from eldritch.cafe posted about the fact that this Ukrainian mastodon instance was, in reality, a fascist instance.
 
 Links to both of these (the report and the post from eldritch.cafe) were posted in our internal chat quite close to each other.
 
@@ -54,9 +54,9 @@ Another moderator (the one who posted the two links in the internal chat) apolog
 
 We had, at the time, shared correspondence with admins from other instances who inquired about these events, and explained our position. Weirder.earth was among those we sent explanations, but they have not replied to our email.
 
-[Mastodon.art](http://Mastodon.art) was one of the servers that asked asked about our situation and wanted to confirm if the allegations had merit. We addressed them as best we could at the time and this became the basis of our restructuring process, which was detailed a bit in our previous blog post.
+Mastodon.art was one of the servers that asked asked about our situation and wanted to confirm if the allegations had merit. We addressed them as best we could at the time and this became the basis of our restructuring process, which was detailed a bit in our previous blog post.
 
-[Mastodon.art](http://Mastodon.art) enthusiastically responded to our explanation, which is able to be observed [here](https://pastes.io/sdqipcmytk).
+Mastodon.art enthusiastically responded to our explanation, which is able to be observed [here](https://pastes.io/sdqipcmytk).
 
 We note that mastodon.art’s most recent fediblock (made in the last month) still links to the same accusations.
 
@@ -85,7 +85,7 @@ It may take time and a cool head to come to a decision, especially when we need 
 
 This is why our individual moderator public accounts do not bear weight on tech.lgbt as a whole in regards to our moderation, our individual actions are only representative of our individual selves and views, and we are still held accountable to the rules of our own server.
 
-This all leads to the recent situation that has needed time to be thoroughly reviewed to be properly addressed. One of our moderators, @shadowjonathan, has been alleged of starting a racist harassment campaign against the owner of [thebad.space](http://thebad.space) (TBS), so in the effort of integrity in this thorough investigation, we corroborate the materials that Jo provided, such as screenshots or reference material (links), to public statements and other materials that can be brought up by other moderators. Jo was otherwise not involved in the original drafting of this document, only reviewing for confirmation of details before posting.
+This all leads to the recent situation that has needed time to be thoroughly reviewed to be properly addressed. One of our moderators, @shadowjonathan, has been alleged of starting a racist harassment campaign against the owner of thebad.space (TBS), so in the effort of integrity in this thorough investigation, we corroborate the materials that Jo provided, such as screenshots or reference material (links), to public statements and other materials that can be brought up by other moderators. Jo was otherwise not involved in the original drafting of this document, only reviewing for confirmation of details before posting.
 
 While we wish to keep the sanctity of privacy in private matters, we feel that we must provide certain evidence to substantiate our findings in this investigation, due to the severity of the allegations.
 
@@ -97,7 +97,7 @@ It’s important to first acknowledge the context of these events: **the fediver
 
 We see that, while we are not a wholly white moderation team, tech.lgbt’s white moderators are included in this recognition failure, and the issue is not exclusive to any single portion of the fediverse.
 
-## Controversy regarding [thebad.space](http://thebad.space) and racist harassment
+## Controversy regarding thebad.space and racist harassment
 
 Our summary of the events is as thus;
 
@@ -123,11 +123,11 @@ Rectifying the thread within the hour of issuing the apology, as well as offerin
 
 However, we see that @shadowjonathan’s post was **not** the origin of the speculations, as initial public posts were what informed them, and, given their (@shadowjonathan’s) post had limited reach, with fewer than 158 boosts and 207 favorites at the time (these numbers were only first recorded on 16 Sept 2023; the specific window of 28 hours, 20 minutes between the original publication and the rectification is likely much lower), we deem it unlikely that the majority or even moderate impact can be attributed to @shadowjonathan directly, though we acknowledge that their part in this situation was not nil.
 
-We state this, as many allegations made by Ro, WelshPixie and admins of the fedimins group afterwards, accuse [tech.lgbt](http://tech.lgbt) of being the sole instigator of the following fallout. (In referring to tech.lgbt, we assume they would prominently be referring to @shadowjonathan.)
+We state this, as many allegations made by Ro, WelshPixie and admins of the fedimins group afterwards, accuse tech.lgbt of being the sole instigator of the following fallout. (In referring to tech.lgbt, we assume they would prominently be referring to @shadowjonathan.)
 
 While we don’t believe that @shadowjonathan was the origin of the speculation or had any intent of malice, their good reputation meant that their post unwittingly provided additional credibility for a racist portion of the fediverse who were spurred on to enact a racist harassment campaign against Ro and thebad.space. This is not to say that criticizing thebad.space or other blocklists is inherently racist, as good-faith discussion is necessary to improve and balance them, but criticizing these topics unfortunately became ample grounds for racist fediverse users to organize against, especially considering the history Ro already had with these groups.
 
-This is not to say that Ro’s own statements and actions have not contributed to this fallout. We note that, on multiple occasions, Ro has posted escalating language about [tech.lgbt](http://tech.lgbt) and @shadowjonathan that increasingly diverge from fact, not dissimilar to inflammation, while rejecting criticisms, even in cases where the person was attempting to communicate in good faith, seemingly ignoring the perspective or background of the persons making the statement.
+This is not to say that Ro’s own statements and actions have not contributed to this fallout. We note that, on multiple occasions, Ro has posted escalating language about tech.lgbt and @shadowjonathan that increasingly diverge from fact, not dissimilar to inflammation, while rejecting criticisms, even in cases where the person was attempting to communicate in good faith, seemingly ignoring the perspective or background of the persons making the statement.
 
 We see this as a potential angle of continued harassment, as the language that Ro uses also leads to further harassment and racism. We condemn users of the wider fediverse for using said angle to further harassment and racism.
 
@@ -137,7 +137,7 @@ Our good faith attempt at conversation and remediation, through @sudaksis’s co
 
 None of the statements made by @shadowjonathan are determined to be provably intentionally racist, nor are they definitively proven unintentionally racist, given they went out of their way to reduce the reach after they became aware of the developing situation. We also do not think there was intentional racism as alleged in the fedimin discord channel, as their interpretation of the discussion at hand (given their panicked and possibly tunnel-visioned mental state) was one of airing and acknowledging concerns, together with the subsequent lack of resolution of those concerns, resulted in a dire miscommunication, one which was not intended to be had in the first place.
 
-Tech.lgbt has made no official statements about the situation in any capacity other than referencing this upcoming response in the [15 Sept 2023 blog entry](https://info.tech.lgbt/2023/09/15/addressing-concerns-rage-love-simcha-lgbt.html) regarding the simcha.lgbt allegations. Any comments from [tech.lgbt](http://tech.lgbt) moderators before this publication are not official statements that speak for the whole moderation team.
+Tech.lgbt has made no official statements about the situation in any capacity other than referencing this upcoming response in the [15 Sept 2023 blog entry](https://info.tech.lgbt/2023/09/15/addressing-concerns-rage-love-simcha-lgbt.html) regarding the simcha.lgbt allegations. Any comments from tech.lgbt moderators before this publication are not official statements that speak for the whole moderation team.
 
 ## Our Response
 
@@ -177,13 +177,13 @@ With this full detailing of the specifics of the incident, please use your best 
 
 ## The Timeline
 
-Note, everything marked in *italics* are editorialized comments made by the [tech.lgbt](http://tech.lgbt) moderation team as a whole.
+Note, everything marked in *italics* are editorialized comments made by the tech.lgbt moderation team as a whole.
 
 (Also note that, due to a change in how mastodon technically displays web pages in newer versions, we could not get mastodon pages to display properly on some archival websites. We’ve tried our best to capture these pages, but some digging in the website’s source code (of the archived web page, through “inspect element”) might be needed to look behind CW markers.)
 
 ### One or a few days prior to 10 Sept 2023
 
-- Thebad.space encounters a bug that took a recently added trusted source’s list [indiepocalypse.social] of limited and suspended servers, and applied all entries without a secondary source corroborating them. Some known affected servers include:
+- Thebad.space encounters a bug that took a recently added trusted source’s list (indiepocalypse.social) of limited and suspended servers, and applied all entries without a secondary source corroborating them. Some known affected servers include:
     - 0w0.is
     - girlcock.club
     - treehouse.systems
@@ -306,13 +306,13 @@ Note, everything marked in *italics* are editorialized comments made by the [tec
 - 02:54 EDT – WelshPixie replies to @sudaksis in private showing disgust at @shadowjonathan for favouriting a post that is critical of WelshPixie and no longer wants to speak with @sudaksis about the conversation in the fedimin group. WelshPixie blames @shadowjonathan again for the post causing everything, and says to speak with Ro directly on fedi to discuss @shadowjonathan’s behavior if amends with Ro are to be made.
     - *Here, we wish to counter this assessment of the situation with the following 3 observed points;*
         - *We observe that WelshPixie, Ro, and affiliated parties have been posting publicly (since 10 Sept) a lot about racism, allegations, and announcing fediblock and whole instance actions. Many of these engagements read hostile in nature, and as such, have been attracting counteractive attention in response.*
-        - *Since the beginning of the incident, [tech.lgbt](http://tech.lgbt) has made no official statements, except for a mention in a public blog post (on Sept 15 2023) that we were still working on gaining consensus for a public statement on the issue.*
+        - *Since the beginning of the incident, tech.lgbt has made no official statements, except for a mention in a public blog post (on Sept 15 2023) that we were still working on gaining consensus for a public statement on the issue.*
         - *@shadowjonathan themself has not posted about the situation since the rectification to the thread on 11 Sept 2023, to not further wedge opinion on this critical and complex issue*.
             - *Their views over WelshPixie’s conduct and character - when not stated openly, for one reason or another - are subject to privacy, and as such, an attack to single out a moderator for privately acknowledging a post is highly disturbing behavior.*
                 - *@shadowjonathan themself acknowledges that their view on conduct of WelshPixie and mastodon.art was still developing at this time, and in the particular case of this post, while they do not agree with the name-calling that occurred in that post, they primarily acknowledged the feelings that people had over WelshPixie’s past and present behavior, including the assessment of patterns therein.*
-            - *Furthermore, as a mechanism, [tech.lgbt](http://tech.lgbt)’s moderation structure requires consensus among the moderators when making public statements like these, which shape the outcome and view that moderation on tech.lgbt has. A single moderator’s views or opinions does not equal the entirety of the team. Among the team there are viewpoints that are defensive or critical on this issue in a variety of ways, and while finding consensus in there is a hard process, it is a process we do value.*
+            - *Furthermore, as a mechanism, tech.lgbt’s moderation structure requires consensus among the moderators when making public statements like these, which shape the outcome and view that moderation on tech.lgbt has. A single moderator’s views or opinions does not equal the entirety of the team. Among the team there are viewpoints that are defensive or critical on this issue in a variety of ways, and while finding consensus in there is a hard process, it is a process we do value.*
 - 13:32 EDT – WelshPixie publicly posts a link to the criticism of WelshPixie, denoting it was “liked” by @shadowjonathan but generalizing them as “one of the tech.lgbt mods”. [[Link](https://mastodon.art/@welshpixie/111093005762467203) ([Archive](https://archive.ph/S1ebC)), [Link](https://mastodon.social/@VoxofGod/111085188980113179) ([Archive](https://archive.ph/uqyMX))]
-    - *The [tech.lgbt](http://tech.lgbt) moderation team would like to note here, again, that a single mod’s views do not make up the sum of its moderation team’s conduct, even if it does influence a part of it. This lack of distinction, and the immediate retributive action that followed this, is considered by us to be an overreaction.*
+    - *The tech.lgbt moderation team would like to note here, again, that a single mod’s views do not make up the sum of its moderation team’s conduct, even if it does influence a part of it. This lack of distinction, and the immediate retributive action that followed this, is considered by us to be an overreaction.*
 - 20:18 EDT -- @sudaksis acknowledges WelshPixie’s message in private and requests a transcript of only @shadowjonathan’s messages in the conversation.
 
 ### 20 Sept 2023
