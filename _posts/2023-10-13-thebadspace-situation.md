@@ -199,7 +199,7 @@ Note, everything marked in *italics* are editorialized comments made by the [tec
     - ![Initial Discovery](/assets/images/13Oct2023-1.png)
     - They were not yet aware that tech.lgbt was among the affected servers.
 - 05:17 EDT – Someone mentions that tech.lgbt was also affected, and @shadowjonathan relayed to this update to the tech.lgbt mod team as well.
-    - ![Poor Moderation, Hate Speech](/assets/images/13Oct2023-1.png)
+    - ![Poor Moderation, Hate Speech](/assets/images/13Oct2023-2.png)
 - 05:23 EDT -- @shadowjonathan posts the public awareness thread, after having researched the limited information on thebad.space site, to inform others about the issue and noted potential concerns about the list, such as the lack of evidence to support their inclusion in the list, validation of the list, and lack of other critical information about the list. [[Link](https://tech.lgbt/@ShadowJonathan/111040123888700458) ([Archive](https://archive.ph/Uh0W5))]
     - *We’d like to note that, at the time, there was very little useful information about the history of the project, the process of list curation, the identity of the owner (”technical support” does not constitute ownership), no link to the much-mentioned Patreon, no link to updates, or even the source code, and no mention of the also much-mentioned tweaking website.* [[Archive](https://web.archive.org/web/20230814015150/https:/thebad.space/), [Archive](https://web.archive.org/web/20230913180433/https://thebad.space/about)]
 - 05:48 EDT -- @shadowjonathan brings to attention in a fedimins channel of the Mastodon.art admin Discord group the same concerns about the project as in the post.
@@ -323,8 +323,8 @@ Note, everything marked in *italics* are editorialized comments made by the [tec
 - 18:03 EDT -- @sudaksis confirms to WelshPixie in private that @shadowjonathan has validated that their words in the document are exact but a section is missing about PlayVicious.
 - 18:04 EDT – WelshPixie provides the missing section in private.
 - 18:09 EDT – In private, WelshPixie reasons that she likely omitted the section because she did not think it was relevant.
-    - [Sudaksis Words Discord](/assets/images/13Oct2023-3.png)
-    - [WelshPixie Brief Part Discord](/assets/images/13Oct2023-4.png)
+    - ![Sudaksis Words Discord](/assets/images/13Oct2023-3.png)
+    - ![WelshPixie Brief Part Discord](/assets/images/13Oct2023-4.png)
     - *We now consider this document of questionable integrity, as it’s been shown that sections were intentionally or inadvertently edited out, and only the memory of @shadowjonathan can corroborate which may be missing. We acknowledge that, due to the intensity of the moment, memory on these matters likely becomes highly faulty, so having a document that intentionally omits sections degrades trust in integrity.*
 - *Here, we provide the full transcription as was given to us in this last exchange, including the missing section.* [[Link](https://pastes.io/g3qhgivj0p)]
 
