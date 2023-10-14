@@ -155,7 +155,7 @@ When those admins found out that @shadowjonathan had a limited understanding of 
 
 There was no conflict de-escalation provided in the discussion and only pressure was applied to @shadowjonathan into acceptance of their arguments. What happened here because of those other admins in particular was inappropriate and should be condemned.
 
-We, tech.lgbt, do ***not*** condone any harassment that has been directed towards Ro and others involved, including the DDoS attack that took down the list site for several days. That is a shame on our communities, and we all should be doing better. We also do ***not*** condone any conspiracy theories about Ro or thebad.space project. There is no conspiracy to eradicate the trans community, there is no active political element, and there was (to our knowledge) no willful misconduct on part of either Ro or @shadowjonathan prior to the attempt to make amends on 11 Sept 2023.
+We, tech.lgbt, do ***not*** condone any harassment that has been directed towards Ro and others involved, including the DDoS attack that took down the list site for several days. That is a shame on our communities, and we all should be doing better. We also do ***not*** condone any conspiracy theories about Ro or thebad.space project. We do not support any claims that thebad.space was designed with the intent of harming the trans community or to further any political element, nor do we believe there was willful misconduct on part of Ro or @shadowjonathan prior to the attempt to make amends on 11 Sept 2023.
 
 We can all be reactive when put under scrutiny, and we do not fault Ro or @shadowjonathan for having reacted the initial ways that they did. What we all can do is ask for forgiveness for our mistakes and make amends.
 
@@ -183,7 +183,7 @@ Note, everything marked in *italics* are editorialized comments made by the tech
 
 ### One or a few days prior to 10 Sept 2023
 
-- Thebad.space encounters a bug that took a recently added trusted source’s list (indiepocalypse.social) of limited and suspended servers, and applied all entries without a secondary source corroborating them. Some known affected servers include:
+- Thebad.space encounters a bug after an update that allowed some servers limited or suspended by single sources, without additional corroborating sources, from the list of trusted sources to be applied to the main list. The exact details have not been identified. Some known affected servers include:
     - 0w0.is
     - girlcock.club
     - treehouse.systems
