@@ -101,7 +101,7 @@ We see that, while we are not a wholly white moderation team, tech.lgbt’s whit
 
 Our summary of the events is as thus;
 
-A bug in thebad.space incorrectly listed multiple servers, either limited or suspended by only one trusted source, on the official blocklist after the addition of indiepocalypse.social to the trusted sources.
+A bug in thebad.space incorrectly listed multiple servers, either limited or suspended by only one trusted source, on the official blocklist after the addition of new servers to the trusted sources.
 
 The effect of this bug was discovered by several admins and users hours prior to @shadowjonathan becoming aware. Upon discovery, @shadowjonathan spent approximately 15 minutes trying to find information that was not present on thebad.space site and felt the effect of this bug (unaware that it was a bug) pointed to a larger problem with shared blocklists in general, whereby large adoption of blocklists experiencing major technical errors could negatively impact federation in the long term.
 
