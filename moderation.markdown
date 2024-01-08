@@ -33,7 +33,7 @@ Moderators are prohibited from discussing private information about users public
 
 Clear communication between our staff and others is vital to making appropriate decisions and maintaining healthy relationships with the wider Fediverse.
 
-We issue statements via our server account, `@mods@tech.lgbt`. Our staff are allowed to express their own opinions on their own accounts, but personal account posts do not represent the moderation team or server as a whole.
+We issue statements via our server account, [@mods@tech.lgbt](https://tech.lgbt/@mods). Our staff are allowed to express their own opinions on their own accounts, but personal account posts do not represent the moderation team or server as a whole.
 
 Communication between another server’s moderation staff and ours should be done through our email, mods@tech.lgbt, or through direct messaging to the @mods@tech.lgbt account. For these official communications, it is done as the collective voice of our moderation team.
 
