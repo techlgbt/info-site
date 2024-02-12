@@ -9,7 +9,7 @@ permalink: /rules/
 This is a list of the rules that are used to manage reports on tech.lgbt. An up-to-date list of the instance rules can be found at [https://tech.lgbt/about](https://tech.lgbt/about) under the "Server rules" tab.
 
 ### Discrimination & Bigotry Won’t Be Tolerated.
-We're not a free speech absolutist. We're not interested in Nazis, TERFS, or hate speech.
+We're not a free speech absolutist. We're not interested in Nazis, TERFS, or hate speech. Targeted misgendering, deadnaming, or promotion of so-called "conversion therapy" is prohibited.
 
 ### Respect Other Users.
 This instance is meant to be a friendly, welcoming space to all who are willing to reciprocate in helping to create that environment.
