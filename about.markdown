@@ -94,7 +94,13 @@ We do not allow the promotion, advertisement, or sale of NFTs on our instance. W
 
 ## Staff
 
-This instance is administered by the site owner, [@david](https://tech.lgbt/@david). Moderation support is provided by the hard working team of:
+This instance is administered by the team of:
+
+- [@david](https://tech.lgbt/@david)
+- [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan) (Server technician)
+- [@sudaksis](https://tech.lgbt/@sudaksis)
+
+Moderation support is provided by the hard working team of:
 
 - [@bluestarultor](https://tech.lgbt/@bluestarultor)
 - [@deejunfazed](https://tech.lgbt/@deejunfazed)
@@ -102,8 +108,6 @@ This instance is administered by the site owner, [@david](https://tech.lgbt/@dav
 - [@err931](https://tech.lgbt/@err931)
 - [@ItsCryptic](https://tech.lgbt/@ItsCryptic)
 - [@murderofescrows](https://tech.lgbt/@murderofescrows)
-- [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan) (Server technician)
-- [@sudaksis](https://tech.lgbt/@sudaksis)
 
 
 If you would like to directly contact our moderation team, we have an account at [@mods](https://tech.lgbt/@mods), and can be reached via email at `mods@tech.lgbt`
