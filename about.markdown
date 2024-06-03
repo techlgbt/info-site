@@ -8,6 +8,23 @@ permalink: /about/
 
 This Mastodon instance is for tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.
 
+## Customizations
+tech.lgbt uses a modified version of [glitch-soc](https://glitch-soc.github.io/docs/), a fork of Mastodon.
+
+In addition to this fork, we have made a variety of customizations for our instance, including:
+- 1024 post characters
+- 1024 bio characters
+- 8 bio fields
+- 64 display name characters
+- 16 poll options
+- 8 pinned toots
+- Authorized Fetch is enabled
+- Adding support for remote unicode usernames
+- Increasing max results in the emoji searcher (web interface)
+- An increase in the media proxy API endpoint rate limit, so that when you're scrolling through someone's media tab on their page, all the media will properly load
+
+We plan to link a repository of all of our customizations, coming soon.
+
 ## Attributions
 
 Props to [@malle_yeno@tech.lgbt](https://tech.lgbt/@malle_yeno/) for the instance branding art!
@@ -135,4 +152,4 @@ We maintain a blocklist of instances that we do not federate with. If you believ
 
 The list is visible for logged-in members under the section **Moderated servers** on [https://tech.lgbt/about](https://tech.lgbt/about). While we understand that not publishing this list for non-members is not fully transparent, we are not trying to scare off potential new members who want to ensure that their friends are not blocked. The only nefarious intent here are those who have used this information when public to harass individuals and the instance as a whole. Bluntly, if those are the people that you want to interact with, you should probably join their instance instead.
 
-**This page was most recently updated on 20 February 2024**
+**This page was most recently updated on 3 June 2024**
