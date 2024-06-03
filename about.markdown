@@ -8,6 +8,8 @@ permalink: /about/
 
 This Mastodon instance is for tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.
 
+We welcome all marginalized identities. We are explicitly anti-racist, anti-queerphobic, and anti-transphobic. This Mastodon instance is generally for folks who are LGBTQIA+ and Allies with an interest in tech work, academics, or technology in general.
+
 ## Customizations
 tech.lgbt uses a modified version of [glitch-soc](https://glitch-soc.github.io/docs/), a fork of Mastodon.
 
