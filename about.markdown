@@ -26,7 +26,7 @@ In addition to this fork, we have made a variety of customizations for our insta
 - Increasing max results in the emoji searcher (web interface)
 - An increase in the media proxy API endpoint rate limit, so that when you're scrolling through someone's media tab on their page, all the media will properly load
 
-Our repository of customizations can be found at https://github.com/techlgbt/techlgbt
+Our repository of customizations can be found at [https://github.com/techlgbt/techlgbt](https://github.com/techlgbt/techlgbt)
 
 ## Attributions
 
