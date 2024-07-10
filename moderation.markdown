@@ -83,18 +83,25 @@ Our server is hesitant to be included in pacts and covenants among other servers
 We are currently signees of the following pacts:
 - [Anti-Meta Fedi Pact](https://fedipact.online/)
 
-## Moderation Team
+## Moderation Staff
 
-Instance owner: [@david](https://tech.lgbt/@david)
+This instance is administered by the team of:
 
-Staff:
-
-- [@bluestarultor](https://tech.lgbt/@bluestarultor)
-- [@ItsCryptic](https://tech.lgbt/@ItsCryptic)
-- [@murderofescrows](https://tech.lgbt/@murderofescrows)
-- [@niraeth](https://tech.lgbt/@niraeth)
-- [@raeaw](https://tech.lgbt/@raeaw)
+- [@david](https://tech.lgbt/@david)
 - [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan) (Server technician)
 - [@sudaksis](https://tech.lgbt/@sudaksis)
 
-**This page was most recently updated on 7 October 2023**
+Moderation support is provided by the hard working team of:
+
+- [@bluestarultor](https://tech.lgbt/@bluestarultor)
+- [@deejunfazed](https://tech.lgbt/@deejunfazed)
+- [@diffrentcolours](https://tech.lgbt/@diffrentcolours)
+- [@err931](https://tech.lgbt/@err931)
+- [@ItsCryptic](https://tech.lgbt/@ItsCryptic)
+- [@juni](https://tech.lgbt/@juni)
+- [@murderofescrows](https://tech.lgbt/@murderofescrows)
+
+
+If you would like to directly contact our moderation team, we have an account at [@mods](https://tech.lgbt/@mods), and can be reached via email at `mods@tech.lgbt`
+
+**This page was most recently updated on 10 July 2024**
