@@ -98,9 +98,8 @@ Moderation support is provided by the hard working team of:
 - [@diffrentcolours](https://tech.lgbt/@diffrentcolours)
 - [@ItsCryptic](https://tech.lgbt/@ItsCryptic)
 - [@juni](https://tech.lgbt/@juni)
-- [@murderofescrows](https://tech.lgbt/@murderofescrows)
 
 
 If you would like to directly contact our moderation team, we have an account at [@mods](https://tech.lgbt/@mods), and can be reached via email at `mods@tech.lgbt`
 
-**This page was most recently updated on 11 August 2024**
+**This page was most recently updated on 10 September 2024**
