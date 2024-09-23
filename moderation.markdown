@@ -89,7 +89,6 @@ This instance is administered by the team of:
 
 - [@david](https://tech.lgbt/@david)
 - [@ShadowJonathan](https://tech.lgbt/@ShadowJonathan) (Server technician)
-- [@sudaksis](https://tech.lgbt/@sudaksis)
 
 Moderation support is provided by the hard working team of:
 
@@ -102,4 +101,4 @@ Moderation support is provided by the hard working team of:
 
 If you would like to directly contact our moderation team, we have an account at [@mods](https://tech.lgbt/@mods), and can be reached via email at `mods@tech.lgbt`
 
-**This page was most recently updated on 10 September 2024**
+**This page was most recently updated on 23 September 2024**
