@@ -8,7 +8,7 @@ permalink: /about/
 
 This Mastodon instance is for tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.
 
-We welcome all marginalized identities. We are explicitly anti-racist, anti-queerphobic, and anti-transphobic. This Mastodon instance is generally for folks who are LGBTQIA+ and Allies with an interest in tech work, academics, or technology in general.
+We welcome and support all marginalized identities and are dedicated to fostering a space free from hate, bigotry, and prejudice. We are explicitly anti-racist, anti-queerphobic, and anti-transphobic, with zero tolerance for harassment or discrimination. This Mastodon instance is actively moderated with a focus on creating a community that prioritizes the safety and needs of its members. Our space is intended for LGBTQIA+ individuals and allies with an interest in tech, academics, and technology.
 
 ## Customizations
 tech.lgbt uses a modified version of [glitch-soc](https://glitch-soc.github.io/docs/), a fork of Mastodon.
@@ -152,4 +152,4 @@ We maintain a blocklist of instances that we do not federate with. If you believ
 
 The list is visible for logged-in members under the section **Moderated servers** on [https://tech.lgbt/about](https://tech.lgbt/about). While we understand that not publishing this list for non-members is not fully transparent, we are not trying to scare off potential new members who want to ensure that their friends are not blocked. The only nefarious intent here are those who have used this information when public to harass individuals and the instance as a whole. Bluntly, if those are the people that you want to interact with, you should probably join their instance instead.
 
-**This page was most recently updated on 23 September 2024**
+**This page was most recently updated on 4 November 2024**
