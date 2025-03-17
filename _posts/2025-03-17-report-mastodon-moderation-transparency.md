@@ -8,32 +8,37 @@ First, thank you to the patience of everyone who has responded to the survey. Ma
 
 This report goes over key findings in the survey, some personal insights and interpretations, concerns over tensions in transparency expectations, and recommendations for moderation reporting. The raw data of the survey is also included at the end of the report.
 
-The survey that this report is based on was performed by @david@tech.lgbt via their personal Mastodon account from 30 December 2024 to 31 January 2025. This was done on a self-hosted Cryptpad form, with the intention of anonymizing respondents for trust and safety purposes.
+The survey that this report is based on was performed by [@david@tech.lgbt](https://tech.lgbt/@david) via their personal Mastodon account from 30 December 2024 to 31 January 2025. This was done on a self-hosted Cryptpad form, with the intention of anonymizing respondents for trust and safety purposes.
 
 ## Key Findings:
 
 **1. Public Posting of Moderation Decisions:**
+
 Respondents strongly favored transparency, especially for remote moderation actions, mainly instance suspensions.
 
 Decisions affecting access of remote instances were considered more critical to publicly disclose compared to local ones, suggesting a higher accountability expectation when moderation decisions impact the connections to external communities.
 
 **2. Situations for Public Disclosure:**
+
 High-priority categories for public moderation announcements included violence/threats, personal attacks, harassment, hate speech, and misinformation.
 
 Spam, copyright infringement, and inappropriate content received lower priority.
 
 **3. User Impact and Timeliness:**
+
 The number of affected local users was deemed more important than the number of affected remote users, reflecting a community-centric perspective.
 
 Most respondents preferred moderation decisions to be shared within one week, indicating a balance between timely communication and moderation workload.
 
 **4. Ethical Considerations:**
+
 Protecting vulnerable users, user privacy, and avoiding continued harm were paramount ethical concerns for respondents.
 Fairness, impartiality, and transparency of policies were also very important but ranked slightly lower. All of these considerations were ranked as very important.
 
 There is an inherent challenge here that will be discussed in the Transparency Tensions and Concerns section.
 
 **5. Requests for Clarification:**
+
 Respondents preferred contextual sharing of moderation decisions rather than automatic disclosure when asked privately or publicly. Still, there was a strong preference for moderation disclosure when asked directly.
 
 The requester’s identity strongly influenced the concern about sharing details. If the affected party is asking, the expecation is on disclosure. If remote users are asking, the expecation is that requests for disclosure are less valued.
@@ -41,12 +46,15 @@ The requester’s identity strongly influenced the concern about sharing details
 Note that this question was asked without clarifying what an "Affected User" was. Is a local user affected just because the potential for connection has been severed in a suspension? Or does a connection have to already exist to consider a local user affected?
 
 **6. Moderator Accountability:**
+
 The majority felt it was only somewhat or not important to identify specific moderators responsible for actions, indicating a stronger interest in institutional rather than individual accountability. This would also help to protect individual moderators from reprisal or harassment.
 
 **7. Legal Responsibility:**
+
 Legal implications of moderation transparency were considered somewhat important by respondents, highlighting awareness but not a primary driver of transparency. Ethical considerations were clearly much more important to respondents than legal responsibility.
 
 **8. Data and Appeals:**
+
 Aggregated moderation data was considered useful to some extent for transparency.
 
 Confidential appeal mechanisms were strongly supported for personal use, less so for intervening on behalf of others.
@@ -68,14 +76,17 @@ The following section on Recommendations for Moderation Reporting are an attempt
 Please note that these recommendations are broad and open to adjustments as needed for your community and reporting standards. Not all recommendations will fit for every community or instance, and there may be additional concerns to factor in to your Moderation Reporting Plan.
 
 **1. Aggregated or Anonymized Transparency**
+
 Instead of detailing individual moderation cases publicly, release aggregated summaries regularly (e.g., monthly or quarterly).
 
 Include the number of actions taken by type (spam, hate speech, etc.) without personally identifiable information.
 
 **2. Prioritize Remote Transparency:**
+
 Implement standardized protocols for promptly and transparently communicating remote instance moderation actions due to their broader implications.
 
 **3. Contextual Communication**
+
 Be transparent about the criteria used to determine which moderation decisions are shared publicly and which remain confidential.
 
 Clearly communicate that ethical considerations (privacy, risk of harm, vulnerability) can override general transparency norms.
@@ -83,6 +94,7 @@ Clearly communicate that ethical considerations (privacy, risk of harm, vulnerab
 Formulate clear, publicly-available policies on how moderation decisions will be communicated upon request, explicitly considering the requester’s relationship to the moderation action.
 
 **4. Ethical Moderation Framework**
+
 Outline ethical guidelines used when making moderation decisions, such as criteria for protecting vulnerable users or minimizing harm, and explain how these criteria shape transparency.
 
 Develop explicit ethical guidelines emphasizing user protection, privacy, fairness, and harm mitigation in moderation policies, and communicate these publicly to build trust.
@@ -90,9 +102,11 @@ Develop explicit ethical guidelines emphasizing user protection, privacy, fairne
 Use hypothetical or anonymized examples to demonstrate decision-making without exposing users.
 
 **5. Differentiated Transparency Levels**
+
 Offer different levels of detail based on audience. For instance, provide a basic public summary, with more detailed confidential disclosures available upon inquiry from directly affected individuals.
 
 **6. Confidential Appeal Mechanism**
+
 Emphasize confidential appeals channels, allowing those impacted to discuss moderation decisions privately and safely, thereby balancing user rights with community transparency expectations.
 
 Clearly outline the process, criteria, and confidentiality assurances.
