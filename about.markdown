@@ -144,12 +144,54 @@ dmca@tech.lgbt
 
 This instance is funded by [Patreon](https://www.patreon.com/wolfpaw) and [Liberapay](https://liberapay.com/wolfpaw/) donations.
 
-## Blocked Instances
+## Moderation Transparency & Communication Policy
+
+Previously, our instance had a standard policy of withholding all information concerning moderation decisions. While this policy could be controversial, it was made based on past experience regarding moderation transparency and the safety of our members and moderators. 99% of moderation decisions are never noticed or commented upon by members, as we are doing our due diligence to protect our community from spam, scams, harassment, abuse, and general ickiness. But when those decisions are noticed, a lot of conclusions are drawn!
+
+This transparency and communication policy is an attempt to make more clear when we take actions that affect our community, and why they were taken. It is based on a survey conducted in early 2025, [which we outlined the results of in a blog post](https://info.tech.lgbt/2025/03/17/report-mastodon-moderation-transparency.html).
+
+There is no perfect solution to a level of transparency, nor any one agreed on definition of what that even entails. While it may seem simple to say, "be transparent about everything", that is both a reductive view, and can be quite harmful. The survey showcases some of these challenges, but crucially gave us insight on where we can improve as moderators.
+
+
+### How We Communicate Moderation Decisions
+To balance transparency, privacy, and ethical responsibility, we will follow these guidelines when sharing moderation decisions.
+
+We will provide general transparency reports that summarize moderation activity, including:
+- Instance-wide moderation actions (for instance, blocking another instance due to harmful behavior).
+- Trends in moderation enforcement (for instance, repeated spam patterns or coordinated harassment).
+- Policy changes that affect how moderation is handled.
+
+To protect user privacy and avoid undue harm, we do not publicly disclose:
+- Individual reports or user-specific actions unless absolutely necessary.
+- Sensitive details about incidents involving vulnerable individuals.
+- Private conversations or internal discussions between moderators and users.
+
+Some moderation actions are communicated based on context and who is affected:
+- Directly affected users (such as someone suspended for a violation) will receive a private notification.
+- Members impacted by larger moderation actions (such as an instance-wide block) may see a public announcement if relevant to the community. For instance, if there are a large number of members who follow users on a blocked instance.
+- Requests for explanation will be considered, but we prioritize user safety and privacy when deciding what will be disclosed.
+
+We recognize that transparency builds trust, but it must be balanced with ethical responsibility. Our commitment is to be clear about moderation practices without compromising user safety or privacy.
+
+Note that with all of the above, moderation is still at the discretion of the local moderation team. Sometimes the decision doesn't come down to any one specific rule breaking incident, but general patterns or an overall vibe check. We will not be coerced by other instances or users into making a specific decision that does not align with our values and goals. Our primary goal is to make this instance a safe and welcoming community to all members who find our Code of Conduct reasonable.
+
+If you have questions about moderation decisions or transparency policies, please reach out to @mods@tech.lgbt, or email mods@tech.lgbt
+
+### Appeals
+Mastodon has an appeal system for local report moderation built in. The limitations of this system are that only affected local users can appeal, and only via the original report action.
+
+We have separately provided [a private appeal form](https://pad.tech.lgbt/form/#/3/form/view/7eb22edf7de8d62f79bf4c4e0e99da6f/embed/) that you can use to provide feedback for us to review. This includes space to share which decisions, why you believe that they should be reviewed, and any other information that you can share that we may not be privvy to. The form is through Cryptpad, and only stores information that you enter, with no additional identifiable information.
+
+Please note that submitting an appeal does not guarantee that a moderation decision will be reversed.
+
+Above all, please remember that the moderators for this instance are real individuals with feelings, emotions, and lived experiences. While tensions may be high in the moment, all of us are working toward a shared space that we all want to participate in.
+
+[Appeal Form](https://pad.tech.lgbt/form/#/3/form/view/7eb22edf7de8d62f79bf4c4e0e99da6f/embed/)
+
+### Blocked Instances
 
 We maintain a blocklist of instances that we do not federate with. If you believe that an instance should be added to this list, please contact an admin or moderator.
 
-**For privacy and safety of our community, we do not comment on most instance blocks that we have in place. We have recently begun sharing details on major/oft commented moderation decisions via [@mods@tech.lgbt](https://tech.lgbt/@mods)**
-
 The list is visible for logged-in members under the section **Moderated servers** on [https://tech.lgbt/about](https://tech.lgbt/about). While we understand that not publishing this list for non-members is not fully transparent, we are not trying to scare off potential new members who want to ensure that their friends are not blocked. The only nefarious intent here are those who have used this information when public to harass individuals and the instance as a whole. Bluntly, if those are the people that you want to interact with, you should probably join their instance instead.
 
-**This page was most recently updated on 4 November 2024**
+**This page was most recently updated on 16 April 2025**
